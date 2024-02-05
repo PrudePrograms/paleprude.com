@@ -15,7 +15,6 @@ disableKinds = ["taxonomy", "term"]
    image = "img/paleprude.jpg"  # path relative to static directory
 
   links = [
-    # { email = "mailto:hello@your_domain.com" },
     # { link = "https://link-to-some-website.com/" },
     # { amazon = "https://www.amazon.com/hz/wishlist/ls/wishlist-id" },
     # { apple = "https://www.apple.com" },
@@ -52,7 +51,9 @@ disableKinds = ["taxonomy", "term"]
     # { twitch = "https://twitch.tv/username" },
     # { twitter = "https://twitter.com/username" },
     # { whatsapp = "https://wa.me/phone-number" },
-    # { youtube = "https://youtube.com/username" },
+     { Personal Youtube = "https://www.youtube.com/@paleprude" },
+     { Widehaus Podcast Youtube = "https://www.youtube.com/@widehausbeefyboys" },
+    # { email = "mailto:hello@your_domain.com" },
   ]
 
 [module]
