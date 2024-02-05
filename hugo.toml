@@ -52,8 +52,8 @@ disableKinds = ["taxonomy", "term"]
       { twitter = "https://twitter.com/paleprudephoto" },
       { twitter = "https://twitter.com/paleprude" },
     # { whatsapp = "https://wa.me/phone-number" },
-      { youtube = "https://www.youtube.com/@paleprude" },
-      { youtube = "https://www.youtube.com/@widehausbeefyboys" },
+      { youtube = href = https://www.youtube.com/@paleprude" },
+      { youtube = {href = https://www.youtube.com/@widehausbeefyboys", text = "Weekly Show"} },
     # { email = "mailto:hello@your_domain.com" }
   ]
 
