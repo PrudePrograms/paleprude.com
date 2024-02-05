@@ -49,11 +49,11 @@ disableKinds = ["taxonomy", "term"]
     # { tiktok = "https://tiktok.com/@username" },
     # { tumblr = "https://username.tumblr.com" },
     # { twitch = "https://twitch.tv/username" },
-      { photo_twitter = "https://twitter.com/username" },
-      { general_twitter = "https://twitter.com/username" },
+      { twitter = "https://twitter.com/paleprudephoto" },
+      { twitter = "https://twitter.com/paleprude" },
     # { whatsapp = "https://wa.me/phone-number" },
-      { personal_youtube = "https://www.youtube.com/@paleprude" },
-      { widehaus_podcast_youtube = "https://www.youtube.com/@widehausbeefyboys" },
+      { youtube = "https://www.youtube.com/@paleprude" },
+      { youtube = "https://www.youtube.com/@widehausbeefyboys" },
     # { email = "mailto:hello@your_domain.com" }
   ]
 
