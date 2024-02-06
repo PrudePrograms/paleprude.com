@@ -1,4 +1,4 @@
-baseURL = '/'
+baseURL = 'https://paleprude.com/'
 languageCode = 'en-us'
 title = 'Pale Prude'
 theme="lynx"
