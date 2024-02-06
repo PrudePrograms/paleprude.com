@@ -3,6 +3,7 @@ languageCode = 'en-us'
 title = 'Pale Prude'
 theme="lynx"
 defaultContentLanguage = "en"
+favicon = "/static/favicon.png"
 
 # copyright = "Copy, _right?_ :thinking_face:"
 
