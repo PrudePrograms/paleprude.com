@@ -3,7 +3,6 @@ languageCode = 'en-us'
 title = 'Pale Prude'
 theme="lynx"
 defaultContentLanguage = "en"
-favicon = "/static/favicon.png"
 
 # copyright = "Copy, _right?_ :thinking_face:"
 
@@ -62,3 +61,6 @@ disableKinds = ["taxonomy", "term"]
   [module.hugoVersion]
     extended = false
     min = "0.86.1"
+
+[params]
+favicon = "img/favicon.png"
