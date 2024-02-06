@@ -16,7 +16,7 @@ disableKinds = ["taxonomy", "term"]
 
   links = [
       { youtube = {href = "https://www.youtube.com/@widehausbeefyboys", text = "Weekly Show"} },
-      { youtube = {href = "https://www.youtube.com/@paleprude", text = "Solo Content"} },
+      { twitter = {href = "https://twitter.com/paleprudephoto", text = "Photo Twitter"} },
     # { link = "https://link-to-some-website.com/" },
     # { amazon = "https://www.amazon.com/hz/wishlist/ls/wishlist-id" },
     # { apple = "https://www.apple.com" },
@@ -51,9 +51,9 @@ disableKinds = ["taxonomy", "term"]
     # { tiktok = "https://tiktok.com/@username" },
     # { tumblr = "https://username.tumblr.com" },
     # { twitch = "https://twitch.tv/username" },
-      { twitter = {href = "https://twitter.com/paleprudephoto", text = "Photo Twitter"} },
       { twitter = {href = "https://twitter.com/paleprude", text = "General Twitter"} },
     # { whatsapp = "https://wa.me/phone-number" },
+      { youtube = {href = "https://www.youtube.com/@paleprude", text = "Solo Content"} },
     # { email = "mailto:hello@your_domain.com" }
   ]
 
