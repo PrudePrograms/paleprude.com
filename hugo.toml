@@ -4,7 +4,7 @@ title = 'Pale Prude'
 theme="lynx"
 defaultContentLanguage = "en"
 
-# copyright = "Copy, _right?_ :thinking_face:"
+# copyright = "Pale Prude"
 
 enableEmoji = true
 disableKinds = ["taxonomy", "term"]
@@ -53,6 +53,7 @@ disableKinds = ["taxonomy", "term"]
     # { twitch = "https://twitch.tv/username" },
       { twitter = {href = "https://twitter.com/paleprude", text = "General Twitter"} },
     # { whatsapp = "https://wa.me/phone-number" },
+      { bluesky = {href = "https://bsky.app/profile/paleprudephoto.bsky.social", text = "Photo Bluesky" } },
       { youtube = {href = "https://www.youtube.com/@paleprude", text = "Solo Content"} },
     # { email = "mailto:hello@your_domain.com" }
   ]
