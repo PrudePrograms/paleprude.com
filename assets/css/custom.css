@@ -1,10 +1,11 @@
 .link-bluesky {
     background: rgb(191, 236, 255);
     background: linear-gradient(
-      90deg,
+      45deg,
       rgb(147, 194, 197) 0%,
-      rgb(52, 70, 75) 40%,
-      rgb(52, 70, 75) 60%,
+      rgb(52, 70, 75) 30%,
+      rgb(52, 70, 75) 70%,
       rgb(147, 194, 197) 100%
     );
+    fill: currentColor;
   }
