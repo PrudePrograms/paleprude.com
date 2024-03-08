@@ -2,13 +2,13 @@
     background: rgb(191, 236, 255);
     background: linear-gradient(
       45deg,
-      rgb(147, 194, 197) 0%,
+      rgb(167, 208, 241) 0%,
       rgb(52, 70, 75) 30%,
       rgb(52, 70, 75) 70%,
-      rgb(147, 194, 197) 100%
+      rgb(167, 208, 241) 100%
     );
   }
 
-  .icon-bluesky {
+  path { 
     fill: currentColor;
   }
