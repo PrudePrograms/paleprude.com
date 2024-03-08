@@ -15,8 +15,13 @@ disableKinds = ["taxonomy", "term"]
    image = "img/paleprude.jpg"  # path relative to static directory
 
   links = [
-      { youtube = {href = "https://www.youtube.com/@widehausbeefyboys", text = "Weekly Show"} },
+      { flickr = "https://www.flickr.com/paleprudephoto/" },
+      { instagram = "https://instagram.com/paleprudephoto" },
+      { bluesky = {href = "https://bsky.app/profile/paleprudephoto.bsky.social", text = "Photo Bluesky" } },
       { twitter = {href = "https://twitter.com/paleprudephoto", text = "Photo Twitter"} },
+      { twitter = {href = "https://twitter.com/paleprude", text = "General Twitter"} },
+      { youtube = {href = "https://www.youtube.com/@paleprude", text = "Solo Content"} },
+      { youtube = {href = "https://www.youtube.com/@widehausbeefyboys", text = "Weekly Show"} },
     # { link = "https://link-to-some-website.com/" },
     # { amazon = "https://www.amazon.com/hz/wishlist/ls/wishlist-id" },
     # { apple = "https://www.apple.com" },
@@ -25,12 +30,10 @@ disableKinds = ["taxonomy", "term"]
     # { discord = "https://discord.gg/invitecode" },
     # { dribbble = "https://dribbble.com/username" },
     # { facebook = "https://facebook.com/username" },
-      { flickr = "https://www.flickr.com/paleprudephoto/" },
     # { foursquare = "https://foursquare.com/username" },
     # { github = "https://github.com/username" },
     # { gitlab = "https://gitlab.com/username" },
     # { google = "https://www.google.com/" },
-      { instagram = "https://instagram.com/paleprudephoto" },
     # { keybase = "https://keybase.io/username" },
     # { kickstarter = "https://www.kickstarter.com/profile/username" },
     # { lastfm = "https://lastfm.com/user/username" },
@@ -51,10 +54,7 @@ disableKinds = ["taxonomy", "term"]
     # { tiktok = "https://tiktok.com/@username" },
     # { tumblr = "https://username.tumblr.com" },
     # { twitch = "https://twitch.tv/username" },
-      { twitter = {href = "https://twitter.com/paleprude", text = "General Twitter"} },
     # { whatsapp = "https://wa.me/phone-number" },
-      { bluesky = {href = "https://bsky.app/profile/paleprudephoto.bsky.social", text = "Photo Bluesky" } },
-      { youtube = {href = "https://www.youtube.com/@paleprude", text = "Solo Content"} },
     # { email = "mailto:hello@your_domain.com" }
   ]
 
