@@ -17,7 +17,7 @@ disableKinds = ["taxonomy", "term"]
   links = [
       { flickr = "https://www.flickr.com/paleprudephoto/" },
       { instagram = "https://instagram.com/paleprudephoto" },
-      { bluesky = {href = "https://bsky.app/profile/paleprudephoto.bsky.social", text = "Photo Bluesky", icon = "bluesky.svg" } },
+      { bluesky = {href = "https://bsky.app/profile/paleprudephoto.bsky.social", text = "Photo Bluesky", icon = "/assets/icons/bluesky.svg" } },
       { twitter = {href = "https://twitter.com/paleprudephoto", text = "Photo Twitter"} },
       { twitter = {href = "https://twitter.com/paleprude", text = "General Twitter"} },
       { youtube = {href = "https://www.youtube.com/@paleprude", text = "Solo Content"} },
