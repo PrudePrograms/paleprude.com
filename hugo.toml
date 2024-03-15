@@ -11,7 +11,7 @@ disableKinds = ["taxonomy", "term"]
 
 [author]
    name = "Pale Prude"
-   #headline = "Photographer"
+ # headline = "Photographer"
    image = "img/paleprude.jpg"  # path relative to static directory
 
   links = [
