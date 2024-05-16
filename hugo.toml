@@ -22,7 +22,7 @@ disableKinds = ["taxonomy", "term"]
       { youtube = {href = "https://www.youtube.com/@paleprude", text = "Video Content"} },
       { twitter = {href = "https://twitter.com/paleprude", text = "Video Twitter"} },
       { kit = {href = "https://kit.co/paleprude", text = "The list of gear that I use."} },
-      { kofi = {href = "https://ko-fi.com/paleprude", text = "Like what I do? I accept tips!😊"} },
+      { kofi = {href = "https://ko-fi.com/paleprude", text = "Like what I do? I accept tips!😊", icon = "kofi" } },
     # { link = "https://link-to-some-website.com/" },
     # { amazon = "https://www.amazon.com/hz/wishlist/ls/wishlist-id" },
     # { apple = "https://www.apple.com" },
