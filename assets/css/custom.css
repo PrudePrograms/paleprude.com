@@ -12,3 +12,11 @@
   path { 
     fill: currentColor;
   }
+
+  .link-kofi {
+    background: rgb(0, 102, 0);
+  }
+
+  path { 
+    fill: currentColor;
+  }
