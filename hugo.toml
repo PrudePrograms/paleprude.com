@@ -18,7 +18,7 @@ disableKinds = ["taxonomy", "term"]
       { flickr = "https://www.flickr.com/paleprudephoto/" },
       { instagram = "https://instagram.com/paleprudephoto" },
       { bluesky = {href = "https://bsky.app/profile/paleprudephoto.bsky.social", text = "Bluesky", icon = "bluesky" } },
-      { twitter = {href = "https://twitter.com/paleprudephoto", text = "Photo Twitter"} },
+      { x = {href = "https://twitter.com/paleprudephoto", text = "Photo X"} },
       { youtube = {href = "https://www.youtube.com/@paleprude", text = "Video Content"} },
       { twitter = {href = "https://twitter.com/paleprude", text = "Video Twitter"} },
       { kit = {href = "https://kit.co/paleprude", text = "List of the gear that I use.", icon = "kit" } },
