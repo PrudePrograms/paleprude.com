@@ -1,19 +1,27 @@
-# baseURL = "paleprude.com"
+baseURL = "https://paleprude.com/"
 languageCode = "en"
 defaultContentLanguage = "en"
-
-title = "Pale Prude"
-# copyright = "Copy, _right?_ :thinking_face:"
+theme = "lynx"
+title = "Pale Prude's Links"
+copyright = "© 2024 Pale Prude"
 
 enableEmoji = true
 disableKinds = ["taxonomy", "term"]
 
 [params.author]
-  # name = "Pale Prude"
-  # headline = ""
-  # image = "img/paleprude.jpg"  # path relative to static directory
+   name = "Pale Prude"
+  headline = "Photographer and Videographer"
+   image = "img/paleprude.jpg"  # path relative to static directory
 
   links = [
+      { flickr = "https://www.flickr.com/paleprudephoto/" },
+      { instagram = "https://instagram.com/paleprudephoto" },
+      { bluesky = {href = "https://bsky.app/profile/paleprudephoto.bsky.social", text = "Bluesky", icon = "bluesky" } },
+      { x = {href = "https://x.com/paleprudephoto", text = "Photo X"} },
+      { youtube = {href = "https://www.youtube.com/@paleprude", text = "Video Content"} },
+      { twitter = {href = "https://twitter.com/paleprude", text = "Video Twitter"} },
+      { kit = {href = "https://kit.co/paleprude", text = "List of the gear that I use.", icon = "kit" } },
+      { kofi = {href = "https://ko-fi.com/paleprude", text = "Like what I do? I accept tips!😊", icon = "kofi" } },
     # { email = "mailto:hello@your_domain.com" },
     # { link = "https://link-to-some-website.com/" },
     # { amazon = "https://www.amazon.com/hz/wishlist/ls/wishlist-id" },
