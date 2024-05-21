@@ -1,10 +1,10 @@
 baseURL = 'https://paleprude.com/'
 languageCode = 'en-us'
 title = 'Pale Prude'
-theme="lynx"
+theme= "lynx"
 defaultContentLanguage = "en"
 
-# copyright = "Pale Prude"
+copyright = "Pale Prude"
 
 enableEmoji = true
 disableKinds = ["taxonomy", "term"]

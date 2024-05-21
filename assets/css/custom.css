@@ -1,3 +1,47 @@
+.link-rumble {
+    background: rgb(118, 208, 109);
+    background: linear-gradient(
+        135deg,
+        rgb(156, 255, 147) 0%,
+        rgb(36, 18, 49) 25%,
+        rgb(36, 18, 49) 75%,
+        rgb(156, 255, 147) 100% 
+    ) 
+}
+  path { 
+    fill: currentColor;
+  }
+ 
+.link-wiki {
+    background: rgb(0, 0, 0);
+    background: linear-gradient(
+        rgb(255, 245, 112) 0%,
+        rgb(254, 177, 88) 30%,
+        rgb(255, 66, 59) 60%,
+        rgb(136, 0, 170) 100% 
+    )
+  }
+  path { 
+    fill: currentColor;
+  }
+
+
+.link-kofi {
+    background: rgb(0, 102, 0);
+  }
+  path { 
+    fill: currentColor;
+  }
+
+
+.link-kit {
+    background: rgb(85, 85, 85);
+  }
+  path { 
+    fill: currentColor;
+  }
+
+
 .link-bluesky {
     background: rgb(191, 236, 255);
     background: linear-gradient(
@@ -12,15 +56,16 @@
     fill: currentColor;
   }
 
-  .link-kofi {
-    background: rgb(0, 102, 0);
+
+.link-rss {
+    background: rgb(255, 178, 45);
   }
   path { 
     fill: currentColor;
   }
 
-  .link-kit {
-    background: rgb(85, 85, 85);
+.link-kick {
+    background: rgb(62, 225, 33);
   }
   path { 
     fill: currentColor;
